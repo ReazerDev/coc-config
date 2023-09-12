@@ -7,6 +7,9 @@
     "coc-prettier": ">=9.3.1",
     "coc-pairs": ">=1.4.2",
     "coc-css": ">=2.0.0",
-    "coc-solargraph": ">=1.2.4"
-  }
+    "coc-solargraph": ">=1.2.4",
+    "@yaegassy/coc-volar": ">=0.34.8",
+    "@yaegassy/coc-volar-tools": ">=0.3.3"
+  },
+  "lastUpdate": 1694198160160
 }
