@@ -8,9 +8,10 @@
     "coc-pairs": ">=1.4.2",
     "coc-css": ">=2.0.0",
     "coc-solargraph": ">=1.2.4",
-    "@yaegassy/coc-volar": ">=0.34.8",
+    "@yaegassy/coc-volar": ">=0.34.23",
     "@yaegassy/coc-volar-tools": ">=0.3.3",
-    "coc-angular": ">=17.0.2"
+    "coc-angular": ">=17.0.2",
+    "coc-flutter": ">=1.9.10"
   },
   "lastUpdate": 1694198160160
 }
